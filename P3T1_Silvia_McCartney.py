@@ -4,7 +4,7 @@
 #create two rectangles and write a program that asks for 
 #lenght and width of each and calculates the area1, and 2 
 #tell which rectangle has a > area
-#tel if the areas are the same
+#tell if the areas are the same
 
 
 print ("This program will calculate the area of rectangle 1 and rectangle 2")
