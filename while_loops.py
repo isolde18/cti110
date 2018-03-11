@@ -1,6 +1,6 @@
 
 
-keep_going='y' #set value of kee_going to y so loop iterates at least once
+keep_going='y' #set value of keep_going to y so loop iterates at least once
 while keep_going=='y':
     sales=float(input("Enter sales amount: "))
     comm_rate=float(input("Enter commison rate: "))            
