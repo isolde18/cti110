@@ -13,7 +13,7 @@ if age_person <=1:
 elif age_person >1 and age_person <=13:
     print ("The person is a child")
 
-elif age_person >=13 and age_person <=20:
+elif age_person >13 and age_person <=20:
     print("The person is teenager")
 elif age_person>=20:
     print ("The person is adult")
