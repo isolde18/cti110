@@ -1,6 +1,6 @@
 
 #CTI110
-#Silvia
+
 #Age Classifier
 
 age_person=int(input("Enter age "))
